@@ -1,0 +1,16 @@
+
+.icon-edit {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(../icons/edit.png);
+    /* Ajusta el tamaño y la ruta de la imagen según sea necesario */
+}
+
+.icon-delete {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('/path/to/delete-icon.png');
+    /* Ajusta el tamaño y la ruta de la imagen según sea necesario */
+}
